@@ -30,10 +30,6 @@ This Python script processes the 2018 Central Park Squirrel Census data to count
 
 The original data comes from the [2018 Central Park Squirrel Census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw).
 
-6. License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Break Down ##
 
 1.First, the code imports the pandas library, which is used for data manipulation and analysis.
